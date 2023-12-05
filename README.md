@@ -1,6 +1,4 @@
-# Avalanche Subnet Faucet
-
-Right now there are thousands of networks and chains in the blockchain space, each with its capabilities and use-cases. And each network requires native coins to do any transaction on them, which can have a monetary value as well. These coins can be collected through centralized exchanges, token sales, etc in exchange for some monetary assets like USD.
+# Avalanche Subnet FaucetRight now there are thousands of networks and chains in the blockchain space, each with its capabilities and use-cases. And each network requires native coins to do any transaction on them, which can have a monetary value as well. These coins can be collected through centralized exchanges, token sales, etc in exchange for some monetary assets like USD.
 
 But we cannot risk our funds on the network or on any applications hosted on that network, without testing them first. So, these networks often have test networks or testnets, where the native coins do not have any monetary value, and thus can be obtained freely through faucets. 
 
